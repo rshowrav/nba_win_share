@@ -1,4 +1,4 @@
-## OBJECTIVE
+## Objective
 
 The goal of this project is to sample basic and advanced NBA players from the years
 1990 to 2020. The objective of this project is listed below:
